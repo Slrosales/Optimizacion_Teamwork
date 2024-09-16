@@ -27,4 +27,11 @@ El curso incluye tres proyectos en equipo donde los estudiantes aplican los conc
 3. **Teamwork III: Entrenamiento y Almacenamiento de Modelos**  
    Desarrollo de técnicas para el entrenamiento y almacenamiento eficiente de modelos, incluyendo redes neuronales convolucionales.
 
+## Equipo
+* Laura Gómez
+* Camilo Heras
+* María Gómez
+* Valeria Jiménez
+* Brayan Gutiérrez
+
 Parcelación 2024-10
